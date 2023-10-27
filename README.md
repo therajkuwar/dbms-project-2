@@ -1,2 +1,2 @@
-# Training_and_Placement_Management_System
-DBMS Project
+Internship & Placement Portal 
+Made specifically for KK Wagh Engineering students.
